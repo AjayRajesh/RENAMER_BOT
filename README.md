@@ -52,7 +52,7 @@ and larger works may be distributed under different terms and without source cod
 <a href=>
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/channel/UCToHxOuZeFY3HJx1rV_mAQA>
+<a href=">
    <p> YouTube </p>
   </a>
 
